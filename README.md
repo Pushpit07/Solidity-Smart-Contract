@@ -1,4 +1,4 @@
-# Solidity-Smart-Contract
+# Solidity Smart Contracts
 
 These contracts were written using the Remix - Ethereum IDE
 
